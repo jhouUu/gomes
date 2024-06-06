@@ -1,1 +1,6 @@
 # gomes
+MEU NOME É JONATHAN GOMES,
+ESTOU FAZENDO AULAS NO ALURA,
+COMPARTILHO MEUS PROJETOS AQUI...
+
+![](https://media1.tenor.com/m/62BV0H4Pnq8AAAAd/anime.gif)
